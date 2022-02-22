@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/windows/windows-11)
+[![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/windows/windows-11)
 [![](https://img.shields.io/badge/macOS-Monterey-FA243C?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
