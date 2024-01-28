@@ -1,20 +1,5 @@
 ### Hi here 👋
 
-<!--
-**INEWSK/INEWSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/windows/windows-11)
 [![](https://img.shields.io/badge/macOS-Monterey-FA243C?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
@@ -33,5 +18,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org)
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com)
 
+### Find Me
+[![](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/airlues)
+[![](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/airlues)
+
 ### Some Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INEWSK&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=INEWSK&show_icons=true&locale=en)
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=INEWSK&show_icons=true&locale=en&layout=compact)
